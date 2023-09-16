@@ -24,19 +24,21 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Sophia Iroegbu",
+  title: "Software Engineer & Technical Writer",
+  email: "iroegbusophia3@gmail.com",
+  gitHub: "Sophyia7",
+  linkedIn: "sophia-iroegbu",
+  blog: "www.sophyia.me",
+  twitter: "sophiairoegbu_",
 };
 
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
+
+// Change the title color from siteProps 
+
+
 
 const App = () => {
   return (
