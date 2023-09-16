@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How to Deploy a Django App on Render 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A step-by-step guide to deploying a Django app on Render. This includes setting up a database, configuring environment variables, and more.",
+    url: "https://www.freecodecamp.org/news/deploying-a-django-app-to-render/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A FinTech API for Practice",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple API that allows users to create accounts, deposit and withdraw funds, and more.",
+    url: "https://github.com/Sophyia7/Fintech-API",
   },
   {
-    title: "My Resume Site",
+    title: "Connect & Analyze Your Data with the Power BI API",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A step-by-step guide to connecting and analyzing your data with the Power BI API. This is a great way to get started with the Power BI API.",
+    url: "https://adamtheautomator.com/power-bi-api/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "How to Set Up AWS Simple Email Service",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is step-by-step guide to setting up AWS Simple Email Service. This includes setting up a database, configuring environment variables, and more.",
+    url: "https://www.freecodecamp.org/news/set-up-aws-simple-email-service/",
   },
 ];
 
